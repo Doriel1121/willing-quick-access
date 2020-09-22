@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/willing-quick-access/static/css/main.801784f7.chunk.css",
+    "main.js": "/willing-quick-access/static/js/main.9c250c34.chunk.js",
+    "main.js.map": "/willing-quick-access/static/js/main.9c250c34.chunk.js.map",
+    "runtime-main.js": "/willing-quick-access/static/js/runtime-main.612166f1.js",
+    "runtime-main.js.map": "/willing-quick-access/static/js/runtime-main.612166f1.js.map",
+    "static/css/2.9d3b1070.chunk.css": "/willing-quick-access/static/css/2.9d3b1070.chunk.css",
+    "static/js/2.af2ca98f.chunk.js": "/willing-quick-access/static/js/2.af2ca98f.chunk.js",
+    "static/js/2.af2ca98f.chunk.js.map": "/willing-quick-access/static/js/2.af2ca98f.chunk.js.map",
+    "index.html": "/willing-quick-access/index.html",
+    "precache-manifest.d6099447a92e913ee99be79c4a6f390c.js": "/willing-quick-access/precache-manifest.d6099447a92e913ee99be79c4a6f390c.js",
+    "service-worker.js": "/willing-quick-access/service-worker.js",
+    "static/css/2.9d3b1070.chunk.css.map": "/willing-quick-access/static/css/2.9d3b1070.chunk.css.map",
+    "static/css/main.801784f7.chunk.css.map": "/willing-quick-access/static/css/main.801784f7.chunk.css.map",
+    "static/js/2.af2ca98f.chunk.js.LICENSE.txt": "/willing-quick-access/static/js/2.af2ca98f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/willing-quick-access/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.612166f1.js",
+    "static/css/2.9d3b1070.chunk.css",
+    "static/js/2.af2ca98f.chunk.js",
+    "static/css/main.801784f7.chunk.css",
+    "static/js/main.9c250c34.chunk.js"
+  ]
+}
